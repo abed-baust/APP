@@ -139,3 +139,4 @@ C:\Users\hp\Desktop\Poralekha\APP\API\obj\Debug\net8.0\refint\API.dll
 C:\Users\hp\Desktop\Poralekha\APP\API\obj\Debug\net8.0\API.pdb
 C:\Users\hp\Desktop\Poralekha\APP\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Users\hp\Desktop\Poralekha\APP\API\obj\Debug\net8.0\ref\API.dll
+C:\Users\hp\Desktop\Poralekha\APP\API\obj\Debug\net8.0\API.sourcelink.json
