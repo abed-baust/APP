@@ -26,15 +26,23 @@ public class ProductRepository(StoreContext context) : IProductRepository
         return await context.Products.Select(x => x.Brand).ToListAsync();
     }
 
-    public async Task<IReadOnlyList<Product>> GetProductsAsync(string? brands, string? types)
+    public async Task<IReadOnlyList<Product>> GetProductsAsync(string? brands, string? types, string? sort)
     {
         var query = context.Products.AsQueryable();
 
-        if(!string.IsNullOrWhiteSpace(brands))
-            query = query.Where(x=>x.Brand == brands);        
-        
-        if(!string.IsNullOrWhiteSpace(types))
-            query = query.Where(x=>x.Type == types);
+        if (!string.IsNullOrWhiteSpace(brands))
+            query = query.Where(x => x.Brand == brands);
+
+        if (!string.IsNullOrWhiteSpace(types))
+            query = query.Where(x => x.Type == types);
+
+        query = sort switch
+        {
+            "priceAsc" => query.OrderBy(x => x.Price),
+            "priceDesc" => query.OrderByDescending(x => x.Price),
+            _ => query.OrderBy(x => x.Name)
+        };
+
 
         return await query.ToListAsync();
     }
@@ -47,7 +55,7 @@ public class ProductRepository(StoreContext context) : IProductRepository
 
     public async Task<IReadOnlyList<string>> GetTypesAsync()
     {
-       return await context.Products.Select(x=>x.Type).ToListAsync();
+        return await context.Products.Select(x => x.Type).ToListAsync();
     }
 
     public bool ProductExists(int Id)

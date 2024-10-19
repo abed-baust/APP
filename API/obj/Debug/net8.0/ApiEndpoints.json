@@ -16,6 +16,11 @@
         "Name": "types",
         "Type": "System.String",
         "IsRequired": false
+      },
+      {
+        "Name": "sort",
+        "Type": "System.String",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": [
