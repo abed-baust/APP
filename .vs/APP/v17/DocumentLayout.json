@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\Poralekha\\APP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{746C3D80-4363-4AFA-9D9C-BF76C5F10E9A}|Infrastructure\\Infrastructure.csproj|c:\\users\\hp\\desktop\\poralekha\\app\\infrastructure\\data\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{746C3D80-4363-4AFA-9D9C-BF76C5F10E9A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{746C3D80-4363-4AFA-9D9C-BF76C5F10E9A}|Infrastructure\\Infrastructure.csproj|c:\\users\\hp\\desktop\\poralekha\\app\\infrastructure\\data\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746C3D80-4363-4AFA-9D9C-BF76C5F10E9A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B524ECF5-CBBA-4110-A924-BA7B1EBDB006}|Core\\Core.csproj|c:\\users\\hp\\desktop\\poralekha\\app\\core\\specifications\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B524ECF5-CBBA-4110-A924-BA7B1EBDB006}|Core\\Core.csproj|solutionrelative:core\\specifications\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B524ECF5-CBBA-4110-A924-BA7B1EBDB006}|Core\\Core.csproj|c:\\users\\hp\\desktop\\poralekha\\app\\core\\interfaces\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B524ECF5-CBBA-4110-A924-BA7B1EBDB006}|Core\\Core.csproj|solutionrelative:core\\interfaces\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746C3D80-4363-4AFA-9D9C-BF76C5F10E9A}|Infrastructure\\Infrastructure.csproj|c:\\users\\hp\\desktop\\poralekha\\app\\infrastructure\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746C3D80-4363-4AFA-9D9C-BF76C5F10E9A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488EEEE0-36CA-409E-B926-3A969D88BE05}|API\\API.csproj|c:\\users\\hp\\desktop\\poralekha\\app\\api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488EEEE0-36CA-409E-B926-3A969D88BE05}|API\\API.csproj|solutionrelative:api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{488EEEE0-36CA-409E-B926-3A969D88BE05}|API\\API.csproj|c:\\users\\hp\\desktop\\poralekha\\app\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{488EEEE0-36CA-409E-B926-3A969D88BE05}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746C3D80-4363-4AFA-9D9C-BF76C5F10E9A}|Infrastructure\\Infrastructure.csproj|c:\\users\\hp\\desktop\\poralekha\\app\\infrastructure\\data\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746C3D80-4363-4AFA-9D9C-BF76C5F10E9A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B524ECF5-CBBA-4110-A924-BA7B1EBDB006}|Core\\Core.csproj|c:\\users\\hp\\desktop\\poralekha\\app\\core\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,14 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B524ECF5-CBBA-4110-A924-BA7B1EBDB006}|Core\\Core.csproj|c:\\users\\hp\\desktop\\poralekha\\app\\core\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B524ECF5-CBBA-4110-A924-BA7B1EBDB006}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{746C3D80-4363-4AFA-9D9C-BF76C5F10E9A}|Infrastructure\\Infrastructure.csproj|c:\\users\\hp\\desktop\\poralekha\\app\\infrastructure\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{746C3D80-4363-4AFA-9D9C-BF76C5F10E9A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{488EEEE0-36CA-409E-B926-3A969D88BE05}|API\\API.csproj|c:\\users\\hp\\desktop\\poralekha\\app\\api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{488EEEE0-36CA-409E-B926-3A969D88BE05}|API\\API.csproj|solutionrelative:api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B524ECF5-CBBA-4110-A924-BA7B1EBDB006}|Core\\Core.csproj|c:\\users\\hp\\desktop\\poralekha\\app\\core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,54 +78,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Poralekha\\APP\\Infrastructure\\Data\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Data\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Poralekha\\APP\\Infrastructure\\Data\\GenericRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Data\\GenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Title": "SpecificationEvaluator.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Poralekha\\APP\\Infrastructure\\Data\\SpecificationEvaluator.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\SpecificationEvaluator.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Poralekha\\APP\\Infrastructure\\Data\\SpecificationEvaluator.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\SpecificationEvaluator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T01:51:36.916Z",
+              "WhenOpened": "2024-11-02T07:38:41.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Poralekha\\APP\\Core\\Specifications\\BaseSpecification.cs",
+              "RelativeDocumentMoniker": "Core\\Specifications\\BaseSpecification.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Poralekha\\APP\\Core\\Specifications\\BaseSpecification.cs",
+              "RelativeToolTip": "Core\\Specifications\\BaseSpecification.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T05:57:53.641Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Poralekha\\APP\\Core\\Interfaces\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "Core\\Interfaces\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Poralekha\\APP\\Core\\Interfaces\\IGenericRepository.cs",
-              "RelativeToolTip": "Core\\Interfaces\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Title": "ISpecification.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Poralekha\\APP\\Core\\Interfaces\\ISpecification.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\ISpecification.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Poralekha\\APP\\Core\\Interfaces\\ISpecification.cs",
+              "RelativeToolTip": "Core\\Interfaces\\ISpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T01:46:49.312Z",
+              "WhenOpened": "2024-11-02T05:32:25.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Poralekha\\APP\\Infrastructure\\Data\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Poralekha\\APP\\Infrastructure\\Data\\GenericRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\GenericRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAawBQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:51:36.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Poralekha\\APP\\Infrastructure\\Data\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\ProductRepository.cs",
               "ToolTip": "C:\\Users\\hp\\Desktop\\Poralekha\\APP\\Infrastructure\\Data\\ProductRepository.cs",
               "RelativeToolTip": "Infrastructure\\Data\\ProductRepository.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAIAwwCoAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-18T15:25:24.232Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Poralekha\\APP\\Core\\Interfaces\\IProductRepository.cs",
               "RelativeDocumentMoniker": "Core\\Interfaces\\IProductRepository.cs",
@@ -121,12 +154,11 @@
               "RelativeToolTip": "Core\\Interfaces\\IProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T15:17:09.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T15:17:09.502Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Core.csproj",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Poralekha\\APP\\Core\\Core.csproj",
               "RelativeDocumentMoniker": "Core\\Core.csproj",
@@ -138,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "ProductConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Poralekha\\APP\\Infrastructure\\config\\ProductConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\config\\ProductConfiguration.cs",
@@ -150,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Poralekha\\APP\\Infrastructure\\Infrastructure.csproj",
               "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
@@ -162,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Poralekha\\APP\\Core\\Entities\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Core\\Entities\\BaseEntity.cs",
@@ -170,12 +202,11 @@
               "RelativeToolTip": "Core\\Entities\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T13:25:23.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T13:25:23.414Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "StoreContext.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Poralekha\\APP\\Infrastructure\\Data\\StoreContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\StoreContext.cs",
@@ -187,32 +218,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Poralekha\\APP\\API\\Program.cs",
               "RelativeDocumentMoniker": "API\\Program.cs",
               "ToolTip": "C:\\Users\\hp\\Desktop\\Poralekha\\APP\\API\\Program.cs",
               "RelativeToolTip": "API\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T19:54:45.736Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Poralekha\\APP\\API\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\hp\\Desktop\\Poralekha\\APP\\API\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "API\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAIA0wBEAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAiwEYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T15:17:59.532Z"
+              "WhenOpened": "2024-10-18T15:17:59.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Poralekha\\APP\\Core\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Poralekha\\APP\\Core\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:46:49.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Poralekha\\APP\\Core\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "Core\\Entities\\Product.cs",
@@ -224,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "StoreContextSeed.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Poralekha\\APP\\Infrastructure\\Data\\StoreContextSeed.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\StoreContextSeed.cs",
@@ -236,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "products.json",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Poralekha\\APP\\Infrastructure\\Data\\SeedData\\products.json",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\SeedData\\products.json",
