@@ -1,5 +1,6 @@
 ﻿using Core.Entities;
 using Core.Interfaces;
+using Core.Specifications;
 using Infrastructure.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -13,9 +14,12 @@ public class ProductsController(IGenericRepository<Product> repository) : Contro
 {
 
     [HttpGet]
-    public async Task<ActionResult<IReadOnlyList<Product>>> GetProducts(string? brands, string? types,string? sort)
+    public async Task<ActionResult<IReadOnlyList<Product>>> GetProducts(string? brands, string? types, string? sort)
     {
-        return Ok(await repository.ListAllAsync());
+
+        var spec = new ProductSpecification(brands, types, sort);
+        var products = await repository.ListAsync(spec);
+        return Ok(products);
     }
 
     [HttpGet("{id:int}")]
@@ -70,8 +74,8 @@ public class ProductsController(IGenericRepository<Product> repository) : Contro
     public async Task<ActionResult<IReadOnlyList<string>>> GetBrands()
     {
         return Ok();
-    }    
-    
+    }
+
     [HttpGet("types")]
     public async Task<ActionResult<IReadOnlyList<string>>> GetTypes()
     {
