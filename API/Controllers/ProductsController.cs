@@ -14,10 +14,10 @@ public class ProductsController(IGenericRepository<Product> repository) : Contro
 {
 
     [HttpGet]
-    public async Task<ActionResult<IReadOnlyList<Product>>> GetProducts(string? brands, string? types, string? sort)
+    public async Task<ActionResult<IReadOnlyList<Product>>> GetProducts([FromQuery]ProductSpecParams specParams)
     {
 
-        var spec = new ProductSpecification(brands, types, sort);
+        var spec = new ProductSpecification(specParams);
         var products = await repository.ListAsync(spec);
         return Ok(products);
     }

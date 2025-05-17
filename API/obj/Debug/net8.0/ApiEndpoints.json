@@ -8,17 +8,17 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "brands",
-        "Type": "System.String",
+        "Name": "Brands",
+        "Type": "System.Collections.Generic.List\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
         "IsRequired": false
       },
       {
-        "Name": "types",
-        "Type": "System.String",
+        "Name": "Types",
+        "Type": "System.Collections.Generic.List\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
         "IsRequired": false
       },
       {
-        "Name": "sort",
+        "Name": "Sort",
         "Type": "System.String",
         "IsRequired": false
       }
